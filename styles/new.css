@@ -1,0 +1,23 @@
+.doc_1:hover{
+filter: drop-shadow(0px 10px 10px black);
+}
+
+.doc_1{
+  text-align: center; 
+  justify-content: center;
+  margin-bottom:30px ;
+}
+
+.doc_2{
+    color: black;
+}
+.doc_2 h3{
+  padding-top: 30px;
+  
+}
+.doc{
+    background-color: #bbbbbb2d;
+}
+.doc_main{
+    text-align: right;
+}
